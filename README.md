@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ardin Malik
+# 👋 Hi, I’m Daniel L.
 
 I’m a full-stack developer focusing on **web and mobile applications**.  
 I love building projects that **solve real-world problems**.
@@ -29,7 +29,7 @@ I love building projects that **solve real-world problems**.
 ## 📫 Contact
 
 - Email: 2025bit245@std.must.ac.ug  
-- LinkedIn: [Daniel Lunyelele](https://www.linkedin.com/in/ardin-malik-633b6525a)
+- LinkedIn: [Daniel L.](https://www.linkedin.com/in/ardin-malik-633b6525a)
 
 ---
 
