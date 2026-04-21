@@ -28,8 +28,8 @@ I love building projects that **solve real-world problems**.
 
 ## 📫 Contact
 
-- Email: malik141004@gmail.com  
-- LinkedIn: [Ardin Malik](https://www.linkedin.com/in/ardin-malik-633b6525a)
+- Email: 2025bit245@std.must.ac.ug  
+- LinkedIn: [Daniel Lunyelele](https://www.linkedin.com/in/ardin-malik-633b6525a)
 
 ---
 
