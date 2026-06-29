@@ -29,7 +29,7 @@ I love building projects that **solve real-world problems**.
 ## 📫 Contact
 
 - Email: 2025bit245@std.must.ac.ug  
-- LinkedIn: [Daniel L.](https://www.linkedin.com/in/ardin-malik-633b6525a)
+- LinkedIn: [Daniel L.](https://www.linkedin.com/in/dan-lun-633b6525a)
 
 ---
 
